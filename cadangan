@@ -1,0 +1,75 @@
+<section>
+  <div class="cards">
+    <div class="card">
+      <img
+        src="img/png-clipart-cartoon-stylists-do-hair-illustrations-cartoon-character-child.png"
+        alt="Avatar"
+      />
+      <div class="container">
+        <h4><b>Potong rambut</b></h4>
+        <br />
+        <center>
+          <!-- <a href="potong.php"  > -->
+          <button>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span> <a href="potong.php">Info selengkapnya</a>
+          </button>
+          <!-- </a> -->
+        </center>
+      </div>
+    </div>
+    <div class="card">
+      <img src="img/kon.jpg" alt="Avatar" />
+      <div class="container">
+        <h4><b>Konter pulsa</b></h4>
+        <br />
+        <center>
+          <!-- <a href="potong.php"  > -->
+          <button>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span> <a href="potong.php">Info selengkapnya</a>
+          </button>
+          <!-- </a> -->
+        </center>
+      </div>
+    </div>
+    <div class="card">
+      <img src="img/rental.jpg" alt="Avatar" />
+      <div class="container">
+        <h4><b>Jasa pengetikan</b></h4>
+        <br />
+        <center>
+          <!-- <a href="potong.php"  > -->
+          <button>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span> <a href="potong.php">Info selengkapnya</a>
+          </button>
+          <!-- </a> -->
+        </center>
+      </div>
+    </div>
+    <div class="card">
+      <img src="img/kranjang.jpg" alt="Avatar" />
+      <div class="container">
+        <h4><b>Toko kami</b></h4>
+        <br />
+        <center>
+          <!-- <a href="potong.php"  > -->
+          <button>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span> <a href="potong.php">Info selengkapnya</a>
+          </button>
+          <!-- </a> -->
+        </center>
+      </div>
+    </div>
+  </div>
+</section>
